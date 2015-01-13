@@ -1,1 +1,3 @@
-readmeです
+readmeです。
+
+gitのtraningです。
